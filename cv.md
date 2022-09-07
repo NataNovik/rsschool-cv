@@ -17,6 +17,7 @@ I am able to multitask. I have high analytical skills, they allow me to work eff
 - Pug
 - WebStorm
 - JavaScript Basic
+---
 ## Education
 - Belarusian State University (Menegment)
 - Training HTML/CSS
