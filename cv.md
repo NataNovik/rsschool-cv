@@ -1,4 +1,5 @@
 # Novik Natallia
+![foto](/images/foto.jpg)
 ---
 ## Contacts: 
 email: natalyamihalovna88@gmail.com
